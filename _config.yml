@@ -1,17 +1,17 @@
 theme: jekyll-theme-merlot
 locale: "en-US"
 -title: "Ming Xu / Site Title"
-+title: "Student"
++title: "Ming Xu"
  title_separator: "-"
 -name: &name "Ming Xu"
 -description: &description "A girl"
 -url: https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-+name: &name "Dr. Test Account"
-+description: &description "Research scientist at Test University"
++name: &name "Ming Xu"
++description: &description "Research information for password security"
 +url: https://getorg-testacct.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
  baseurl: "" # the subpath of your site, e.g. "/blog"
--repository: "academicpages/academicpages.github.io"
-+repository: "getorg-testacct.github.io"
+-repository: "academicpages/academicpages.github.io" 
++repository: "https://ming-xu-research.github.io/"
  teaser:  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
  breadcrumbs: false # true, false (default)
  words_per_minute: 160

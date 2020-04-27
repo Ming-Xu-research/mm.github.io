@@ -30,7 +30,7 @@ Currently, our research mainly focuses on the following four directions and list
 - Comparative Analysis of Three Language Spheres: Are Linguistic and Cultural Differences Reflected in Password Selection Habits? （European Workshop S&P 2019)
 
 ### The segments in passwords
-- Birthday, Name and Bifacial-security: Understanding Passwords of Chinese Web Users. (USENIX 2019) [paper](Birthday, Name and Bifacial-security:Understanding Passwords of Chinese Web Users)
+- Birthday, Name and Bifacial-security: Understanding Passwords of Chinese Web Users. (USENIX 2019) [paper](https://www.usenix.org/conference/usenixsecurity19/presentation/wang-ding)
 - PARS: A Uniform and Open-source Password Analysis and Research System. (ACSIC 2015) [paper](https://dl.acm.org/doi/10.1145/2818000.2818018)
 
 

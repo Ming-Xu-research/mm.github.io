@@ -10,7 +10,7 @@ Our research intesest mainly includes the password security. Here, we list some 
 Currently, our research mainly focuses on the following four directions and lists some related papers here. 
 
 ### Long password security
-- Can Long Passwords be Secure and Usable? (CHI 2014)[paper](https://dl.acm.org/doi/10.1145/2556288.2557377)
+- Can Long Passwords be Secure and Usable? (CHI 2014) [paper](https://dl.acm.org/doi/10.1145/2556288.2557377)
 - Towards reliable storage of 56-bit secrets in human memory. (USENIX 2014) [paper](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/bonneau)
 - Effect of Grammar on Security of Long Passwords. (SOUPS 2014) [paper](https://dl.acm.org/doi/10.1145/2435349.2435395)
 - Usability and Security of Text Passwords on Mobile Devices. [paper](https://dl.acm.org/doi/10.1145/2858036.2858384)

@@ -1,21 +1,14 @@
 ## Welcome to my research!
 
-My research intesest mainly includes the password security and long passwords.
-You can use the [editor on GitHub](https://github.com/Ming-Xu-research/Ming-Xu-research.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My research intesest mainly includes the password security and long passwords. Currently, our research mainly focuses on the following four directions and lists some related papers here.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Long password security
+- Can Long Passwords be Secure and Usable? (CHI 2014)[Link](https://dl.acm.org/doi/10.1145/2556288.2557377)
+- Towards reliable storage of 56-bit secrets in human memory. (USENIX 2014)[Link](https://www.usenix.org/conference/usenixsecurity14/technical-sessions/presentation/bonneau)
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Long password security
-# Hybrid password guessing methods
-# Semantic patterns in passwords
-# The segments in passwords
+### Hybrid password guessing methods
+### Semantic patterns in passwords
+### The segments in passwords
 
 - Bulleted
 - List

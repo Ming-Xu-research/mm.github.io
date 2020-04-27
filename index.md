@@ -23,8 +23,8 @@ Currently, our research mainly focuses on the following four directions and list
 - Fast, Lean, and Accurate: Modeling Password Guessability Using Neural Networks. (USENIX 2016) [paper](https://www.usenix.org/conference/usenixsecurity16/technical-sessions/presentation/melicher)
 
 ### Semantic patterns in passwords 
-- On the Semantic Patterns of Passwords and their Security Impact. (NDSS 2014) [paper]（https://www.semanticscholar.org/paper/On-Semantic-Patterns-of-Passwords-and-their-Impact-Veras-Collins/3b36334c62b754ebf72f1f706b4f21340ae90606）
-- A Study of Personal Information in Human-chosen Passwords and Its Security Implications. (https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7524583) (Infocom 2016) [paper]
+- On the Semantic Patterns of Passwords and their Security Impact. (NDSS 2014) [paper](https://www.ndss-symposium.org/ndss2014/semantic-patterns-passwords-and-their-security-impact)
+- A Study of Personal Information in Human-chosen Passwords and Its Security Implications. (Infocom 2016) [paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7524583)
 - On the null relationship between personality types and passwords. (PST 2019) [paper](https://ieeexplore.ieee.org/document/8949024/)
 - Comparative Analysis of Three Language Spheres: Are Linguistic and Cultural Differences Reflected in Password Selection Habits? （European Workshop S&P 2019)
 
